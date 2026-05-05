@@ -11,3 +11,9 @@ Warm is a homepod that sits in your living room, kitchen, bedroom or wherever yo
  - Timers
  - More Coming Soon
 
+
+
+
+
+**Progress Document**
+[New Fallout Project (1).pdf](https://github.com/user-attachments/files/27382128/New.Fallout.Project.1.pdf)
