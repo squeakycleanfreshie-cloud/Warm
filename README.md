@@ -20,6 +20,10 @@ Warm is a homepod that sits in your living room, kitchen, bedroom or wherever yo
 **Zine**
 <img width="760" height="1076" alt="Time Live Temperature StopwatchTimers More features to come" src="https://github.com/user-attachments/assets/e83527d6-d88d-41fc-b381-a763fea65a02" />
 
+**PBC**
+<img width="672" height="556" alt="Screenshot 2026-05-10 at 3 08 30 pm" src="https://github.com/user-attachments/assets/bd760d76-1317-4e5c-b037-26e128cb2a99" />
+<img width="537" height="426" alt="Screenshot 2026-05-10 at 3 09 37 pm" src="https://github.com/user-attachments/assets/df48996a-5da8-47b7-b36c-5baafe5656fb" />
+<img width="657" height="559" alt="Screenshot 2026-05-10 at 3 10 19 pm" src="https://github.com/user-attachments/assets/6e65f48c-c091-4849-b87d-94139473caa8" />
 
 
 **Progress Document**
