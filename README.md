@@ -1,4 +1,4 @@
-<img width="1241" height="1755" alt="New Fallout Project (2)_page-0002" src="https://github.com/user-attachments/assets/78d16b71-88c8-4f22-b26b-c9e8a32f51d3" /># Warm
+# Warm
 a minimalistic, futuristic and clean homepod that tells users the time, temperature, date and to-do tasks. Designed for productivity and organisation. 
 
 **What is warm?**
@@ -28,8 +28,9 @@ Warm is a homepod that sits in your living room, kitchen, bedroom or wherever yo
 
 **Progress Document**
 
-
-<img wi<img width="1241" height="1755" alt="New Fallout Project (2)_page-0003" src="https://github.com/user-attachments/assets/ddfb98a7-df63-4881-b096-b19c126948d8" /><img width="1241" height="1755" alt="New Fallout Project (2)_page-0006" src="https://github.com/user-attachments/assets/0d50ed85-8828-4dd2-9017-6a4570694dc2" />
+<img width="1241" height="1755" alt="New Fallout Project (2)_page-0002" src="https://github.com/user-attachments/assets/78d16b71-88c8-4f22-b26b-c9e8a32f51d3" />
+<img width="1241" height="1755" alt="New Fallout Project (2)_page-0003" src="https://github.com/user-attachments/assets/ddfb98a7-df63-4881-b096-b19c126948d8" />
+<img width="1241" height="1755" alt="New Fallout Project (2)_page-0006" src="https://github.com/user-attachments/assets/0d50ed85-8828-4dd2-9017-6a4570694dc2" />
 <img width="1241" height="1755" alt="New Fallout Project (2)_page-0005" src="https://github.com/user-attachments/assets/c57cd729-1932-44d0-838e-78b3052914fa" />
 <img width="1241" height="1755" alt="New Fallout Project (2)_page-0004" src="https://github.com/user-attachments/assets/35b63998-fc61-4924-96e4-af94afbfaf6a" />
 
